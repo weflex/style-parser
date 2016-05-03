@@ -63,6 +63,7 @@ MIT
 
 [Node.js]: https://github.com/nodejs/node
 [style-parser]: https://github.com/weflex/style-parser
+[Parsimmon]: https://github.com/jneen/parsimmon
 [cherrio]: https://github.com/cheeriojs/cheerio
 [npm-image]: https://img.shields.io/npm/v/style-parser.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/style-parser
