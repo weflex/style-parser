@@ -29,3 +29,9 @@ testit('multiline without semi-colon', 'foo:bar;font-text:10px', {
   foo: 'bar',
   'font-text': '10px'
 });
+
+// test failure
+test('test parse error', t => {
+  t.throws(() => parse('foobar'), SyntaxError, 'should throw a syntax error');
+  t.end();
+});
