@@ -4,4 +4,7 @@ node_js:
   - "4.0.0"
   - "5.0.0"
   - "6.0.0"
+after_script:
+  - npm install codecov
+  - ./node_modules/.bin/codecov
 

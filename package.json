@@ -4,7 +4,7 @@
   "description": "css style parser in Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "./node_modules/.bin/istanbul cover test.js"
   },
   "author": "Yorkie Liu <yorkiefixer@gmail.com>",
   "license": "MIT",
@@ -12,6 +12,7 @@
     "parsimmon": "^0.7.0"
   },
   "devDependencies": {
+    "istanbul": "^0.4.3",
     "tape": "^4.5.1"
   }
 }
