@@ -3,6 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Dependency Status][david-image]][david-url]
+[![Test coverage][coveralls-image]][coveralls-url]
 [![Downloads][downloads-image]][downloads-url]
 
 A [Node.js] library to parse the inline css styles.
@@ -69,6 +70,8 @@ MIT
 [npm-url]: https://npmjs.org/package/style-parser
 [travis-image]: https://img.shields.io/travis/weflex/style-parser.svg?style=flat-square
 [travis-url]: https://travis-ci.org/weflex/style-parser
+[coveralls-image]: https://img.shields.io/codecov/c/github/weflex/style-parser.svg?style=flat-square
+[coveralls-url]: https://codecov.io/github/weflex/style-parser?branch=master
 [david-image]: http://img.shields.io/david/weflex/style-parser.svg?style=flat-square
 [david-url]: https://david-dm.org/weflex/style-parser
 [downloads-image]: http://img.shields.io/npm/dm/style-parser.svg?style=flat-square
