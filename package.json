@@ -1,10 +1,14 @@
 {
   "name": "style-parser",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "css style parser in Node.js",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/istanbul cover test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weflex/style-parser.git"
   },
   "author": "Yorkie Liu <yorkiefixer@gmail.com>",
   "license": "MIT",
