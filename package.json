@@ -1,6 +1,6 @@
 {
   "name": "style-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css style parser in Node.js",
   "main": "index.js",
   "scripts": {
